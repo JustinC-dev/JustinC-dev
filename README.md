@@ -1,7 +1,7 @@
-### Hi there 👋
-- 🔭 I’m currently working as a Systems Administrator, improving my automation skills.
-- 🌱 I’m currently skilling-up with Terraform and Multi-cloud architecture.
-- 📫 You can reach me at [My LinkedIn Profile](https://linkedin.com/in/clarytech)
+### Howdy 👋
+- 🔭 I am jack-of-all-trades Systems Administrator trying to become more of a developer than a scripter.
+- 🌱 Terraform and Multi-cloud architecture is what I am studying currently.
+- 📫 You can reach me at [my LinkedIn profile.](https://linkedin.com/in/clarytech)
 
 <!--
 **JustinC-dev/JustinC-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
