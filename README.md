@@ -1,6 +1,6 @@
 ### Howdy 👋
-- 🔭 I am jack-of-all-trades Systems Administrator trying to become more of a developer than a scripter.
-- 🌱 Terraform and Multi-cloud architecture is what I am studying currently.
+- 🔭 I am a jack-of-all-trades Sysadmin trying to become more of a developer than a scripter.
+- 🌱 Multi-cloud architecture and Terraform are what I am studying currently.
 - 📫 You can reach me at [my LinkedIn profile.](https://linkedin.com/in/clarytech)
 
 <!--
