@@ -1,5 +1,5 @@
 ### Howdy 👋
-- 🔭 I am a Senior Sysadmin, focusing on application security and customer identity solutions.
+- 🔭 I am a Cloud Security Engineer, focusing on application security and customer identity solutions.
 - 🌱 Secure cloud architecture and Terraform are what I am studying currently.
 - 📫 You can reach me at [my LinkedIn profile.](https://linkedin.com/in/clarytech)
 
